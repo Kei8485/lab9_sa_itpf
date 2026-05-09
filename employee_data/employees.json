@@ -1,0 +1,16 @@
+[
+  {
+    "employeeCode": "1000",
+    "fullName": "Bautista, Ynand Andrei R.",
+    "department": "IT",
+    "emailAddress": "ynand@gmail.com",
+    "hireDate": "2006-06-25"
+  },
+  {
+    "employeeCode": "101",
+    "fullName": "Bautista, Ynand Andrei R.",
+    "department": "IT",
+    "emailAddress": "ynand@gmail.com",
+    "hireDate": "2006-06-25"
+  }
+]
